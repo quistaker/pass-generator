@@ -1,0 +1,93 @@
+/* GREEN #10B981 */
+
+body {
+    background-color: #1C1C1C;
+    margin: 0;
+    font-family: Karla;
+    padding: 2rem;
+}
+
+h1 {
+    color: white;
+    font-weight: 800;
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+button {
+    background-color: #10B981;
+    color: white;
+    padding: 12px 16px;
+    border: none;
+    border-radius: 6px;
+    font-weight: 500;
+}
+
+input {
+    margin: 0 0 0 0;
+    width: 20px;
+    height: 20px;
+}
+
+label {
+    color: white;
+    margin-right: 1rem;
+    font-size: 20px;
+    
+}
+
+.green {
+    color: #55F991;
+}
+
+#inner-container > p {
+    color: #D5D4D8;
+    font-family: Inter;
+    font-size: 20px;
+}
+
+.inputs-container > div > p {
+    color: #D5D4D8;
+    font-family: Inter;
+    font-size: 16px;
+}
+
+#inner-container {
+    margin: 0 51px;
+}
+
+#container {
+    background-color: #1F2937;
+    width: 550px;
+    height: 435px;
+    margin: 150px auto 0 auto;
+    padding-top: 35px;
+}
+
+.line {
+    width: 446px;
+    height: 1px;
+    background-color: #2F3E53;
+    margin: 25px 0 35px 0;
+}
+
+#passwords {
+    display: flex;
+    justify-content: space-between;
+}
+
+.password {
+    background-color: #273549;
+    color: #55F991;
+    width: 160px;
+    height: 20px;
+    margin: 0 0 20px 0;
+    padding: .8rem 1.2rem;
+    border-radius: 2px;
+    text-align: center;
+}
+
+.inputs-container {
+    display: flex;
+    justify-content: space-between;
+}
